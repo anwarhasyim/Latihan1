@@ -1,0 +1,14 @@
+paket haloindonesia;
+
+/ **
+ *
+ * @ penulis Anwar hasyim
+ * /
+public class haloindonesia {
+    public static void main (String [] args) {
+    
+        System.out.println ("Halo Indonesia");
+        System.out.print ("Selamat pagi Indonesia \ n");
+        System.out.println ("Jaya Indonesia");
+    }
+}
