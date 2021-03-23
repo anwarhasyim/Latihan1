@@ -29,9 +29,9 @@ kelas publik Matematikaberaksi {
     public static void main (String [] args) {
         Matematika matematikaku = Matematika baru ();
         
-        matematikaasik.pertambahan (10,5);
-        matematikaasik.pengurangan (50,20);
-        matematikaasik.perkalian (3,3);
-        matematikaasik.pembagian (20,5);
+        matematikaku.pertambahan (10,5);
+        matematikaku.pengurangan (50,20);
+        matematikaku.perkalian (3,3);
+        matematikaku.pembagian (20,5);
     }
 }
