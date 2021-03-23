@@ -46,8 +46,8 @@ public class Bank {
 kelas publik BankBeraksi {
     public static void main (String [] args) {
         Bank BankIni = Bank baru ();
-        BankAshari.saldo (100000, 500000, 150000);
-        BankAshari.simpanUang (500000);
-        BankAshari.ambilUang (150000);    
+        BankIni.saldo (100000, 500000, 150000);
+        BankIni.simpanUang (500000);
+        BankIni.ambilUang (150000);    
     }
 }
