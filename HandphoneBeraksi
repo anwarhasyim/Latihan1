@@ -2,7 +2,7 @@ package Handphone;
 
 / **
  *
- * @ penulis Anwar hasyim
+ * @ auhor Anwar hasyim
  * /
 Handphone kelas umum {
     String hidupkan;
@@ -23,7 +23,7 @@ package Handphone;
 
 / **
  *
- * @ penulis Anwar hasyim
+ * @ author Anwar hasyim
  * /
 public class HandphoneBeraksi {
     public static void main (String [] args) {
