@@ -2,7 +2,7 @@
 package interhance;
 / **
  *
- * @ penulis Anwar hasyim
+ * @ author Anwar hasyim
  * /
 public class Matematikarumit {
     void modulus (int a, int b) {
