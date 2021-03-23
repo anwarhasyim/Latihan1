@@ -1,7 +1,7 @@
 / **
 package BankIni;
  *
- * @ penulis Anwar hasyim
+ * @ author Anwar hasyim
  * /
 public class Bank {
     int saldo, simpanUang, ambilUang;
@@ -39,7 +39,7 @@ public class Bank {
 
 / **
  *
- * @ penulis Anwar hasyim
+ * @ author Anwar hasyim
  * /
 public class BankBeraksi {
     public static void main (String [] args) {
