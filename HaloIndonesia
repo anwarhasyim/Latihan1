@@ -2,7 +2,7 @@ package haloindonesia;
 
 / **
  *
- * @ penulis Anwar hasyim
+ * @ author Anwar hasyim
  * /
 public class haloindonesia {
     public static void main (String [] args) {
