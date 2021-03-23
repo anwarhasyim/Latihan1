@@ -1,10 +1,10 @@
-pacpackage Mahasiswa;
+package Mahasiswa;
 
 / **
  *
  * @ penulis Anwar hasyim
  * /
-kelas umum Mahasiswa {
+public class Mahasiswa {
     Membaca string;
     int nyontek;
     Modifikasi string;
@@ -16,13 +16,13 @@ kelas umum Mahasiswa {
     }
 }=========================================================================================
 
-paket mahasiswa;
+package mahasiswa;
 
 / **
  *
  * @ penulis Anwar hasyim
  * /
-kelas publik Mahasiswaberaksi {
+public class Mahasiswaberaksi {
     public static void main (String [] args) {
         Mahasiswa mahasiswaui = mahasiswa baru ();
                   mahasiswaui.membaca = "Al-Quran";
