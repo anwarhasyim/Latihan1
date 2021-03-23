@@ -1,0 +1,36 @@
+
+package interhance;
+/ **
+ *
+ * @ penulis Anwar hasyim
+ * /
+public class Matematikarumit {
+    void modulus (int a, int b) {
+        System.out.println ("modulus:" + a + "%" + b + "=" + (a% b));
+    }
+    void pertambahan (int a, int b) {
+        System.out.println ("pertambahan:" + a + "%" + b + "=" + (a% b));
+    }
+    void perkalian (int a, int b) {
+        System.out.println ("perkalian:" + a + "%" + b + "=" + (a% b));
+    }
+}
+
+
+package interhance;
+
+/**
+ *
+ * @author Anwar hasyim
+ */
+
+
+public class Matematikarumitberaksi {
+    public static void main (String [] args) {
+        Matematikarumit aksimatematika = new Matematikarumit();
+        
+        aksimatematika.pertambahan (15,15);
+        aksimatematika.perkalian (5,8);
+        aksimatematika.modulus (10,200);
+    }
+}
