@@ -1,7 +1,5 @@
-paket BankIni;
-
 / **
-paket BankIni;
+package BankIni;
  *
  * @ penulis Anwar hasyim
  * /
@@ -37,13 +35,13 @@ public class Bank {
         
     } ====================================================================
     
-    paket BankIni;
+    package BankIni;
 
 / **
  *
  * @ penulis Anwar hasyim
  * /
-kelas publik BankBeraksi {
+public class BankBeraksi {
     public static void main (String [] args) {
         Bank BankIni = Bank baru ();
         BankIni.saldo (100000, 500000, 150000);
