@@ -1,4 +1,4 @@
-paket mobil;
+package mobil;
 
 / **
  *
@@ -10,13 +10,13 @@ public class mobil1 {
 }
 ====================================================================================
 
-paket mobil;
+package mobil;
 
 / **
  *
  * @ penulis Anwar hasyim
  * /
-mobilberaksi kelas publik {
+public class mobilberaksi {
     public static void main (String [] args) {
         mobil1 mobilAnwar = mobil1 baru ();
         
