@@ -2,7 +2,7 @@ package Parameter;
 
 / **
  *
- * @ penulis Anwar hasyim
+ * @ author Anwar hasyim
  * /
 public class Matematika {
     batal pertambahan (int a, int b) {
@@ -23,7 +23,7 @@ package Parameter;
 
 / **
  *
- * @ penulis Anwar hasyim
+ * @ author Anwar hasyim
  * /
 public class Matematikaberaksi {
     public static void main (String [] args) {
