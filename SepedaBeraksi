@@ -1,10 +1,10 @@
-paket SepedaKu;
+package SepedaKu;
 
 / **
  *
  * @ penulis Anwar hasyim
  * /
-kelas umum Sepeda {
+public class Sepeda {
     int gir;
     
     void setGir (intesGir) {
@@ -16,13 +16,13 @@ kelas umum Sepeda {
     }
 }===================================================================
 
-paket SepedaKu;
+package SepedaKu;
 
 / **
  *
  * @ penulis Anwar hasyim
  * /
-kelas umum SepedaBeraksi {
+public class SepedaBeraksi {
     public static void main (String [] args) {
         Sepeda sepedaku = new Sepeda ()
             
