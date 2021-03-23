@@ -2,7 +2,7 @@ package Mahasiswa;
 
 / **
  *
- * @ penulis Anwar hasyim
+ * @ author Anwar hasyim
  * /
 public class Mahasiswa {
     Membaca string;
@@ -20,7 +20,7 @@ package mahasiswa;
 
 / **
  *
- * @ penulis Anwar hasyim
+ * @ author Anwar hasyim
  * /
 public class Mahasiswaberaksi {
     public static void main (String [] args) {
