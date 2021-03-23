@@ -1,10 +1,10 @@
-.Paket Parameter;
+package Parameter;
 
 / **
  *
  * @ penulis Anwar hasyim
  * /
-kelas publik Matematika {
+public class Matematika {
     batal pertambahan (int a, int b) {
         System.out.println ("hasil =" + (a + b));
         
@@ -19,13 +19,13 @@ kelas publik Matematika {
         System.out.println ("hasil =" + (a / b));
     }=============================================================
     
-Parameter paket;
+package Parameter;
 
 / **
  *
  * @ penulis Anwar hasyim
  * /
-kelas publik Matematikaberaksi {
+public class Matematikaberaksi {
     public static void main (String [] args) {
         Matematika matematikaku = Matematika baru ();
         
