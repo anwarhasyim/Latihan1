@@ -1,4 +1,4 @@
-paket Handphone;
+package Handphone;
 
 / **
  *
@@ -19,13 +19,13 @@ Handphone kelas umum {
     
 } =====================================================================================
 
-paket Handphone;
+package Handphone;
 
 / **
  *
  * @ penulis Anwar hasyim
  * /
-kelas umum HandphoneBeraksi {
+public class HandphoneBeraksi {
     public static void main (String [] args) {
       Handphone handphonesaya = Handphone baru ();
 
